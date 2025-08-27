@@ -40,7 +40,7 @@
 <td width="50%">
 
 **BType 명령어**
-![BType](images/btype.png)
+![BType](images/BTYPE.png)
 *분기 명령어의 데이터 흐름*
 
 </td>
