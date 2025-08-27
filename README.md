@@ -36,13 +36,13 @@
 | :------------------------------------------------------: | :-------------------------------------------------------: |
 | ![DataPath](img/DataPath.png) | ![BTYPE](img/BTYPE.png) |
 | **R-Type** | **I-Type** |
-| ![RType](img/RTYPE.png) | ![IType](img/IType.png) | 
+| ![RType](img/RTYPE.png) | ![IType](img/ITYPE.png) | 
 | **L-Type** | **S-Type** |
-| ![LType](img/LType.png) | ![SType](img/SType.png) |
+| ![LType](img/LTYPE.png) | ![SType](img/STYPE.png) |
 | **J-Type(JAL)** | **JL-Type(JALR)** |
-| ![JType](img/JType.png) | ![JLType](img/JLType.png) |
+| ![JType](img/JTYPE.png) | ![JLType](img/JLTYPE.png) |
 | **U-Type(LU)** | **U-Type(AU)** |
-| ![LUType](img/LUType.png) | ![AUType](img/AUType.png) |
+| ![LUType](img/LUTYPE.png) | ![AUType](img/AUTYPE.png) |
 
 ## 🎯 학습 목표
 
