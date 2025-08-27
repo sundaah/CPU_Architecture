@@ -43,7 +43,6 @@
 
 ## 🏗️ 명령어 Type별 데이터 경로
 
-
 | **DataPath** | **BType** |
 | :------------------------------------------------------: | :-------------------------------------------------------: |
 | ![DataPath](img/DataPath.png) | ![BTYPE](img/BTYPE.png) |
@@ -55,6 +54,19 @@
 | ![JType](img/JTYPE.png) | ![JLType](img/JLTYPE.png) |
 | **U-Type(LU)** | **U-Type(AU)** |
 | ![LUType](img/LUTYPE.png) | ![AUType](img/AUTYPE.png) |
+
+## 🏗️ 명령어 Type별 검증
+
+| **DataPath** | **BType** |
+| :------------------------------------------------------: | :-------------------------------------------------------: |
+| ![FSM](img/fsm.png) | ![BTYPE](img/B.png) |
+| **R-Type** | **I-Type** |
+| ![RType](img/R.png) | ![IType](img/I.png) | 
+| **L-Type** | **S-Type** |
+| ![LType](img/L.png) | ![SType](img/S.png) |
+| **J&JL-Type(JAL)** | **U-Type(LU)** |
+| ![JType](img/J.png) | ![JLType](img/U.png) |
+
 
 ### 🧠 느낀 점 및 회고
 
