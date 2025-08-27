@@ -1,2 +1,47 @@
-# -32bit-CPU-
-Arithmetic Circuits - Number Systems - Sequential Building Blocks - Memory Arrays - Assembly Language - Machine Language - Memory Map - Architectural State and Instruction Set - Single-Cycle Datapath - Single-Cycle Control Unit - Multicycle Datapath - Multicycle Control Unit - Pipelined Processor 
+## 📖 프로젝트 개요
+
+본 저장소는 현대 CPU 아키텍처의 핵심 구성 요소들을 체계적으로 분석하고 구현한 **종합적인 컴퓨터 구조 연구 프로젝트**입니다.
+산술 회로부터 파이프라인 프로세서까지, 컴퓨터 시스템의 가장 근본적인 동작 원리를 깊이 있게 탐구합니다.
+
+## 🏗️ 아키텍처 구성 요소
+<img src="아키텍처.png" width="300%">
+
+### **🔢 기초 구성 블록**
+- **산술 회로 (Arithmetic Circuits)** - 연산의 기본 단위
+- **수 체계 (Number Systems)** - 디지털 표현의 수학적 기반
+- **순차 논리 블록 (Sequential Building Blocks)** - 시간에 따른 상태 변화
+
+### **💾 메모리 시스템**
+- **메모리 배열 (Memory Arrays)** - 데이터 저장의 물리적 구현
+- **메모리 맵 (Memory Map)** - 주소 공간의 체계적 구성
+
+### **⚙️ 프로세서 아키텍처**
+- **어셈블리 언어 (Assembly Language)** - 하드웨어와의 직접적 소통
+- **기계어 (Machine Language)** - 실리콘이 이해하는 언어
+- **아키텍처 상태와 명령어 집합** - 프로세서의 정신적 모델
+
+### **🔄 제어 및 데이터 경로**
+- **단일 사이클 데이터패스** - 명령어 실행의 기본 흐름
+- **단일 사이클 제어 유닛** - 간결함 속의 완성도
+- **멀티사이클 아키텍처** - 효율성을 위한 복잡성
+- **파이프라인 프로세서** - 성능 극대화의 정점
+
+## 🎯 학습 목표
+
+이 프로젝트를 통해 다음과 같은 심화 이해를 도모합니다:
+
+- **하드웨어 추상화**의 계층적 구조 파악
+- **성능과 복잡성** 사이의 엔지니어링 트레이드오프 분석
+- **병렬 처리**의 근본적 원리와 한계점 이해
+- **현대 프로세서** 설계의 핵심 개념 습득
+
+
+## 🚀 기대 효과
+
+- **컴퓨터 시스템**에 대한 통합적 시각 획득
+- **성능 최적화**를 위한 하드웨어 수준의 이해력 향상
+- **차세대 아키텍처** 설계를 위한 견고한 토대 구축
+
+---
+
+*"CPU 아키텍처는 단순히 회로의 조합이 아닌, 인간의 사고를 실리콘 위에 구현한 지적 창조물입니다."*
