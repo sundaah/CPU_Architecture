@@ -32,72 +32,17 @@
 <tr>
 <td width="50%">
 
-**DataPath**
-![DataPath](imges/BTYPE.png)
-*기본 파이프라인 데이터패스의 전체 구조*
-
-</td>
-<td width="50%">
-
-**BType 명령어**
-![BType](images/BTYPE.png)
-*분기 명령어의 데이터 흐름*
-
-</td>
-</tr>
-</table>
-
-### **레지스터 및 즉시값 명령어**
-<table>
-<tr>
-<td width="50%">
-
-**R-Type 명령어**
-![RType](images/rtype.png)
-*레지스터 간 연산 명령어*
-- ADD, SUB, AND, OR, XOR
-- 두 개의 소스 레지스터 사용
-- 결과를 목적지 레지스터에 저장
-
-</td>
-<td width="50%">
-
-**I-Type 명령어**
-![IType](images/itype.png)
-*즉시값 연산 명령어*
-- ADDI, ANDI, ORI, XORI
-- 하나의 소스 레지스터와 즉시값
-- 로드 명령어 포함
-
-</td>
-</tr>
-</table>
-
-### **메모리 및 점프 명령어**
-<table>
-<tr>
-<td width="50%">
-
-**L-Type 명령어 (Load)**
-![LType](images/ltype.png)
-*메모리 로드 명령어*
-- 메모리에서 레지스터로 데이터 전송
-- 주소 계산 및 메모리 액세스
-- 데이터 캐시와의 상호작용
-
-</td>
-<td width="50%">
-
-**S-Type 명령어 (Store)**
-![SType](images/stype.png)
-*메모리 저장 명령어*
-- 레지스터에서 메모리로 데이터 전송
-- 주소 계산 및 쓰기 동작
-- 메모리 일관성 유지
-
-</td>
-</tr>
-</table>
+| **DataPath** | **BType** |
+| :------------------------------------------------------: | :-------------------------------------------------------: |
+| ![DataPath](img/DataPath.png) | ![BType](img/BTYPE.png) |
+| **R-Type** | **I-Type** |
+| ![RType](img/RTYPE.png) | ![IType](img/IType.png) | 
+| **L-Type** | **S-Type** |
+| ![LType](img/LType.png) | ![SType](img/SType.png) |
+| **J-Type(JAL)** | **JL-Type(JALR)** |
+| ![JType](img/JType.png) | ![JLType](img/JLType.png) |
+| **U-Type(LU)** | **U-Type(AU)** |
+| ![LUType](img/LUType.png) | ![AUType](img/AUType.png) |
 
 ## 🎯 학습 목표
 
