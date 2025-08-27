@@ -33,7 +33,7 @@
 <td width="50%">
 
 **DataPath**
-![DataPath]<img src=BTYPE.png" width="50%">
+![DataPath](img src=BTYPE.png" width="50%")
 *기본 파이프라인 데이터패스의 전체 구조*
 
 </td>
