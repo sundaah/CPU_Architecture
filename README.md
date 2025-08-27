@@ -34,7 +34,7 @@
 
 | **DataPath** | **BType** |
 | :------------------------------------------------------: | :-------------------------------------------------------: |
-| ![DataPath](img/DataPath.png) | ![BType](img/BTYPE.png) |
+| ![DataPath](img/DataPath.png) | ![BTYPE](img/BTYPE.png) |
 | **R-Type** | **I-Type** |
 | ![RType](img/RTYPE.png) | ![IType](img/IType.png) | 
 | **L-Type** | **S-Type** |
